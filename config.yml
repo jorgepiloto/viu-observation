@@ -1,0 +1,10 @@
+location:
+    lon: 03d 23m 05s
+    lat: 37d 03m 51s
+    alt: 2896.0
+
+observation:
+    name: "Observatorio Sierra Nevada (OSN)"
+    datetime: "2023-12-01 18:00"
+    timezone: "Europe/Madrid"
+    targets-file: "comets.dat"
